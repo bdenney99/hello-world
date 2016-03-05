@@ -13,3 +13,5 @@ sub insult {
 print insult(3);
 print insult(5);
 print insult(8);
+print insult(10);
+print insult(12);
