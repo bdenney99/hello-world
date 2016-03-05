@@ -6,6 +6,7 @@ sub insult {
     foreach (1..$num) {
         $msg .= " dumb";
     }
+    $msg .= ".\n";
     return $msg;
 }
 
